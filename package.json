@@ -1,6 +1,6 @@
 {
   "name": "get-github-hosts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get github hosts with nodejs",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,19 @@
   "bin": {
     "ggh": "./bin/ggh.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drylint/get-github-hosts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drylint/get-github-hosts/issues"
+  },
+  "homepage": "https://github.com/drylint/get-github-hosts#readme",
+  "keywords": [
+    "get-github-hosts",
+    "github hosts",
+    "hosts"
+  ],
   "author": "drylint",
   "license": "MIT",
   "dependencies": {

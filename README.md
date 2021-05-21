@@ -21,6 +21,10 @@ npm install -g get-github-hosts
 
 按下键盘 `windows` + `X` 键，在弹出的菜单中选择 `Windows PowerShell (管理员)` （旧系统为 `命令提示符 (管理员)`）一项，会打开命令行。
 
+```bash
+ggh
+```
+
 在命令行运行 `ggh` 命令即可开始获取 hosts 映射地址，获取完毕后会自动更新系统 hosts 文件（`C:\Windows\System32\drivers\etc\hosts`）。
 
 Github 的 IP 地址会频繁变动，所以当发现打不开了之后，需要重新在命令行执行 `ggh` 命令来更新 hosts。
