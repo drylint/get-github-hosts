@@ -1,0 +1,24 @@
+{
+  "name": "get-github-hosts",
+  "version": "1.0.0",
+  "description": "Get github hosts with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "eslint **/*.js"
+  },
+  "bin": {
+    "ggh": "./bin/ggh.js"
+  },
+  "author": "drylint",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-better": "0.0.10"
+  }
+}
