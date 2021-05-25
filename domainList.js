@@ -1,4 +1,5 @@
 module.exports = [
+  'eslint.org',
   'github.com',
   'gist.github.com',
   'assets-cdn.github.com',

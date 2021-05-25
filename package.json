@@ -1,6 +1,6 @@
 {
   "name": "get-github-hosts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get github hosts with nodejs",
   "main": "index.js",
   "scripts": {
