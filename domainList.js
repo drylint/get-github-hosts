@@ -1,4 +1,6 @@
 module.exports = [
+  'stackoverflow.com',
+  'socket.io',
   'eslint.org',
   'github.com',
   'gist.github.com',
